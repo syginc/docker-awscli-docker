@@ -1,1 +1,1 @@
-# docker-awscli-docker
+# awscli-docker
