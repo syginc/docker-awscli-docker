@@ -1,4 +1,4 @@
-FROM ghcr.io/syginc/docker-awscli:python3.7
+FROM ghcr.io/syginc/awscli:python3.7
 
 ENV DOCKER_VERSION "18.09.0"
 
