@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'latest/**'
+      - '.github/workflows/**'
 
 env:
   REGISTRY: ghcr.io
