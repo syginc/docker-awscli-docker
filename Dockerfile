@@ -1,4 +1,4 @@
-FROM syginc/awscli:latest
+FROM ghcr.io/syginc/awscli:python3.7
 
 ENV DOCKER_VERSION "18.09.0"
 

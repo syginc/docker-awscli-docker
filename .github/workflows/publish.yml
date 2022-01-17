@@ -14,7 +14,7 @@ jobs:
     with:
       image_name: ${{ github.repository_owner }}/awscli-docker
       tag: latest
-      file_path: latest/Dockerfile
+      file_path: Dockerfile
       context_path: .
     secrets:
       registry_username: ${{github.actor}}
